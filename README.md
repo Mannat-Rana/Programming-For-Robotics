@@ -13,6 +13,9 @@ This repository contains my final ROS package developed as part of my completion
 
 
 ## To Install
+
+This repository relies on the smb_common_v2 package available [here](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/ROS2021/lec3/smb_common_v2.zip). Build this package the same way as any other ROS package. Installation and execution instructions are only provided for this package. 
+
 ```bash
 cd ~/catkin_ws/src
 git clone https://github.com/Mannat-Rana/Programming-For-Robotics.git
